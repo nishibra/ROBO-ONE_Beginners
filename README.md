@@ -33,7 +33,7 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
    
 __指定ロボット(操縦型)__
 
-![robo](robo-ken_pic/robo.jpg)
+![robo](robo-beginner_pic/robo1.png)
 
 __指定ロボット(自律型)__
 
@@ -44,11 +44,11 @@ ROBO-ONE小リング上にて実施する。
 リングのサイズは図に示す。表面の状態は±1mm以下の段差とし、材質は特に規定しない。
 リング上部2m、リングの周囲30cm、周囲30cmのリングまでの高さは30cmまでは物を配置しない。ただし審判はこの範囲も自由に動けるものする。
 
-![ring](robo-ken_pic/ring.png)   　　　　　 
+![ring](robo-beginner_pic/ring.png)   　　　　　 
 
 ROBO-ONE小リング
 
-![side](robo-ken_pic/side.png)
+![side](robo-beginner_pic/side.png)
 
 リングを横から見た図
 

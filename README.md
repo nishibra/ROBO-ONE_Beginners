@@ -1,6 +1,5 @@
-# ROBO-ONE_Beginner
-
-# 第1回ROBO-ONE Beginner競技規則 (7月12日開催予定)   
+# 第1回ROBO-ONE Beginner競技規則 
+(7月12日開催検討中)   
 (2025年4月3日作成).....一般社団法人二足歩行ロボット協会
  
 ## 参加要領

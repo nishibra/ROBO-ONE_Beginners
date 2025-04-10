@@ -38,6 +38,9 @@ __指定ロボット(自律型)__
 
 ![robo](robo-beginner_pic/auto1.png)
 
+__指定ロボット(Vision型)__
+
+準備中
 
 ### 4.試合会場の規定
 ROBO-ONE小リング上にて実施する。

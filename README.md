@@ -36,7 +36,7 @@ __指定ロボット(操縦型)__ (詳細はWebpage参照:準備中)
 
 __指定ロボット(自律型)__ (詳細はWebpage参照:準備中)
 
-![robo](robo-beginner_pic/auto.png)
+![auto](robo-beginner_pic/auto1.png)
 
 __指定ロボット(Vision型)__
 

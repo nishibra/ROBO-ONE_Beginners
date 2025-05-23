@@ -34,7 +34,7 @@ __指定ロボット(操縦型)__ (詳細はWebpage参照:準備中)
 
 ![robo](robo-beginner_pic/robo1.png)
 
-__指定ロボット(自律型)__ [auto](https://github.com/nishibra/ROBO-ONE_Beginners_auto)
+__指定ロボット(自律型)__ [ロボットの作り方](https://github.com/nishibra/ROBO-ONE_Beginners_auto)
 
 ![auto](robo-beginner_pic/auto1.png)
 

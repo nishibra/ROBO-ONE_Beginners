@@ -1,7 +1,7 @@
 # 第1回ROBO-ONE Beginners競技規則
 (開催日 2025年7月13日 青少年センターにて)   
 (2025年4月10日作成/6月4日 __太字修正__)
-(2025年6月10日 指定ロボット(操縦型) KXR-R2B/K ローバー型B/K 取説追加)
+(2025年6月10日 操縦型指定ロボットKXR-R2B/Kローバー型B/K取説追加 及び __太字修正__)
 一般社団法人二足歩行ロボット協会
 ## 参加要領
 ### 1.参加要領
@@ -31,7 +31,7 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
 - b).ロボットは当協会が指定したロボットのみ参加できる。
 - c).ロボットは操縦型、自律型のいずれでも良い。
    
-指定ロボット(操縦型) [KXR-R2B/K ローバー型B/K 取説](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample)
+__指定ロボット(操縦型)__ [KXR-R2B/K ローバー型B/K 取説](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample)
 
 ![robo](robo-beginner_pic/robo0.png)
 

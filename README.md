@@ -30,7 +30,7 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
 - b).ロボットは当協会が指定したロボットのみ参加できる。
 - c).ロボットは操縦型、自律型のいずれでも良い。
    
-指定ロボット(操縦型) (詳細はWebpage参照:準備中:__6月8日公開予定__)
+指定ロボット(操縦型) [KXR-R2B/K ローバー型B/K 取説](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample)
 
 ![robo](robo-beginner_pic/robo1.png)
 

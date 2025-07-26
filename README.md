@@ -27,7 +27,8 @@
 ### 4.級段位認定制度
 本大会に参加することにより、級段位の認定を行います。以下をご参照ください。
 
-[級段位認定制度について](shodan.md)
+[https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md](shodan.md)
+
 
 ## ROBO-ONE beginners 競技規則
 ### 1.前文

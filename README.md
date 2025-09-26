@@ -1,4 +1,4 @@
-# 第2回ROBO-ONE Beginners競技規則
+# 第2回3回ROBO-ONE Beginners競技規則
 開催日:2025年9月20,21日
 場所:神奈川県青少年センター　ホワイエ
 

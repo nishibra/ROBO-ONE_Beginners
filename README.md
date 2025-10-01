@@ -29,8 +29,8 @@
 
 [https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md](https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md)
 
-__昇級昇段の規定を満足した場合各自より認定の申請を行ってください。__
-__ただし、本大会の同じ級で2度優勝したロボットは申請の有無にかかわらず昇級し、その後は新しい級での出場のみとなります。__
+__昇級昇段の規定を満足した場合、各自より認定申請を行ってください。__
+__ただし、本大会において同じ級で2度優勝したロボットは申請の有無にかかわらず昇級し、その後は新しい級での出場となります。__
 
 ## ROBO-ONE beginners 競技規則
 ### 1.前文

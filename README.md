@@ -5,7 +5,8 @@
 - 2025年10月1日作成
 一般社団法人二足歩行ロボット協会
 
-![第4回ROBO-ONE_Beginnersの競技規則徹底解説](第4回ROBO-ONE_Beginnersの競技規則徹底解説.m4a)
+- 2025年10月17日追加
+[第4回ROBO-ONE_Beginnersの競技規則徹底解説](第4回ROBO-ONE_Beginnersの競技規則徹底解説.m4a) を追加しました。
 
 ## 参加要領
 ### 1.参加要領

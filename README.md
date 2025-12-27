@@ -1,4 +1,4 @@
-# 第4回ROBO-ONE Beginners競技規則
+# ROBO-ONE Beginners競技規則
 開催日:2025年11月16日
 場所:神奈川県青少年センター
 

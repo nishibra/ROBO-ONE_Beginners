@@ -55,7 +55,7 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
 
 指定ロボット(Vision-AI型)
 
-![auto](robo-beginner_pic/auto1.png)
+![auto](VisionAI.png)
 
 ### 4.試合会場の規定
 ROBO-ONE小リング上にて実施する。

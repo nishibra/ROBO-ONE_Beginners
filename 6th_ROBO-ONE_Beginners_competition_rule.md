@@ -67,7 +67,7 @@ ROBO-ONE小リング上にて実施する。
 
 ROBO-ONE小リング
 
-![side](robo-beginner_pic/side.png)
+![side](VisionAI.png)
 
 リングを横から見た図
 
